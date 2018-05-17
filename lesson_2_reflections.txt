@@ -20,12 +20,17 @@ such that they can be tracked back,commit by commit.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
--
+-branching helps to keep different versions of a file,if say one or more of the versions are being tracked 
+but changes on the original are maintained,and those from the branch do not interfere.
 
 How do the diagrams help you visualize the branch structure?
+-it helps gain an understanding of branching,and what exactly happens,the way branches and commits are relate to others.
+-
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+_the two branches combine to become one updated version with changes from both files/branches.
+-its represented that way in the diagram to show the result of the merging(the two files/branches                                                           combining to one updated version.) of the two branches.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
