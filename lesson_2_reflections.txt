@@ -34,3 +34,7 @@ _the two branches combine to become one updated version with changes from both f
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+pros
+-saves programmer/team time and errors prone to too much codelines and resolutions to make.
+cons
+-merging manually enables programmer to assess code going to the same logical area of the program
