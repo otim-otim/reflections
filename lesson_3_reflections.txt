@@ -9,7 +9,10 @@ local?
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+-since github is usually done in an interaction environment with other users, 
+ its important to check and approve some changes, plus,
+  i might have made some more changes to my local version, that may be affected by remote 
+  commits.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
