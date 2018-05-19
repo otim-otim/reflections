@@ -25,7 +25,8 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    -it helps to know when the local is ahead of the remote
+    -it helps to identify the new commits made to the remote so as to know how and when to merge
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
