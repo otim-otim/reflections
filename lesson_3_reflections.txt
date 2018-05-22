@@ -36,3 +36,8 @@ various versions of code, and reviewing.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
+-i make changes in a separate branch rather than master when
+   -im creating a feature with quite a different concept from the master.
+   -i need reviews and suggestions and contributions on a certain piece of code/feature before merging it to master.
+    
+ -the benefits of doing everything on master is, you get to see all the changes without making any pull requests.   
